@@ -15,17 +15,5 @@ non-profitable organization specialized in open-source machine learning
 projects.  Since then, the project has been updated.
 
 
-People
-------
 
-  * Marcel Caraciolo , 2010
-
-  * Bruno Melo,  2011
-
-  * Ricardo Caspirro , 2011
-
-  * Rodrigo Vieira , 2010 , Wiki Pages and Docummentation Support.
-
-If I forgot anyone, do not hesitate to send me an email to
-marcel@muricoca.com and I'll include you in the list.
 
